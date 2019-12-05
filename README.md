@@ -1,2 +1,2 @@
 # ppmFiles
-Program which create the ppm file
+Basic program which create the ppm file
